@@ -1,1 +1,1 @@
-senha = '5641pt36'
+senha = '' #senha usada para puxar o emai
