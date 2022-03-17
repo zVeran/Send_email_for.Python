@@ -13,8 +13,8 @@ EMAIL_PASSWORD = 'senha'
 
 msg = EmailMessage()
 msg['Subject'] = 'Oi, to testando esse troço em pyton kkkkkkk!'
-msg['From'] = 'thorg4mer94@gmail.com'
-msg['To'] = 'agustavodavi94@gmail.com'
+msg['From'] = '' #colocar o email que enviará 
+msg['To'] = '' #colocar o email que será enviado
 msg.set_content('É, se chegou essa mensagem em seu email, VOCÊ é uma pessoa muito sortuda!')
 
 #enviando email
