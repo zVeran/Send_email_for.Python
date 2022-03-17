@@ -10,9 +10,9 @@ from email.mime.text import MIMEText
 
 host = "smtp.gmail.com"
 port = "587"
-login = "thorg4mer94@gmail.com"
-para = "andreolliedu77@gmail.com"
-senha = "5641pt36"
+login = " "
+para = " "
+senha = " "
 
 #server
 
